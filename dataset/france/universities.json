@@ -1,0 +1,1304 @@
+[
+    {
+        "city": "http://www.wikidata.org/entity/Q1289",
+        "uni": "http://www.wikidata.org/entity/Q3578218",
+        "cityLabel": "Grenoble",
+        "uniLabel": "École nationale supérieure d'électronique et de radioélectricité de Grenoble"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q165271",
+        "uni": "http://www.wikidata.org/entity/Q475504",
+        "cityLabel": "Lens",
+        "uniLabel": "Artois University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q8848",
+        "uni": "http://www.wikidata.org/entity/Q30742362",
+        "cityLabel": "Valence",
+        "uniLabel": "université de Valence"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3080679",
+        "cityLabel": "Paris",
+        "uniLabel": "France Business School"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q273536",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris School of Economics"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q17112144",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Institute of Criminology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q23482",
+        "uni": "http://www.wikidata.org/entity/Q3064322",
+        "cityLabel": "Marseille",
+        "uniLabel": "Aix-Marseille University Faculty of Sciences"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6441",
+        "uni": "http://www.wikidata.org/entity/Q776223",
+        "cityLabel": "Montpellier",
+        "uniLabel": "University of Montpellier"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3551353",
+        "cityLabel": "Paris",
+        "uniLabel": "University of London Institute in Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3577907",
+        "cityLabel": "Paris",
+        "uniLabel": "École de psychologues praticiens"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193826",
+        "uni": "http://www.wikidata.org/entity/Q475504",
+        "cityLabel": "Douai",
+        "uniLabel": "Artois University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3550151",
+        "cityLabel": "Paris",
+        "uniLabel": "Union of Independent Grandes Écoles"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q40898",
+        "uni": "http://www.wikidata.org/entity/Q2473125",
+        "cityLabel": "Nancy",
+        "uniLabel": "University Nancy II"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q461413",
+        "uni": "http://www.wikidata.org/entity/Q22959398",
+        "cityLabel": "Pont-à-Mousson",
+        "uniLabel": "université de Pont-à-Mousson"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42716",
+        "uni": "http://www.wikidata.org/entity/Q3517283",
+        "cityLabel": "Saint-Étienne",
+        "uniLabel": "Télécom Saint-Étienne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q207145",
+        "uni": "http://www.wikidata.org/entity/Q475504",
+        "cityLabel": "Béthune",
+        "uniLabel": "Artois University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q3299074",
+        "cityLabel": "Toulouse",
+        "uniLabel": "Toulouse Tech"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q170507",
+        "uni": "http://www.wikidata.org/entity/Q1394262",
+        "cityLabel": "Nanterre",
+        "uniLabel": "Paris Nanterre University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3365251",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Centre Universités"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42168",
+        "uni": "http://www.wikidata.org/entity/Q3551576",
+        "cityLabel": "Clermont-Ferrand",
+        "uniLabel": "University of Clermont-Ferrand (1896-1976)"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q2383462",
+        "cityLabel": "Lyon",
+        "uniLabel": "University of Lyon (1896-1969)"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q2974822",
+        "uni": "http://www.wikidata.org/entity/Q273461",
+        "cityLabel": "Cité scientifique",
+        "uniLabel": "École Centrale de Lille"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q38380",
+        "uni": "http://www.wikidata.org/entity/Q16303760",
+        "cityLabel": "Angers",
+        "uniLabel": "Faculté de théologie d'Angers"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q3577907",
+        "cityLabel": "Lyon",
+        "uniLabel": "École de psychologues praticiens"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193877",
+        "uni": "http://www.wikidata.org/entity/Q636818",
+        "cityLabel": "Ivry-sur-Seine",
+        "uniLabel": "École des technologies numériques appliquées"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q22660",
+        "uni": "http://www.wikidata.org/entity/Q766034",
+        "cityLabel": "Illkirch-Graffenstaden",
+        "uniLabel": "International Space University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q217841",
+        "uni": "http://www.wikidata.org/entity/Q475504",
+        "cityLabel": "Liévin",
+        "uniLabel": "Artois University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q43295",
+        "uni": "http://www.wikidata.org/entity/Q273461",
+        "cityLabel": "Villeneuve-d'Ascq",
+        "uniLabel": "École Centrale de Lille"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q1477551",
+        "cityLabel": "Lille",
+        "uniLabel": "Lille Catholic University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193821",
+        "uni": "http://www.wikidata.org/entity/Q1215328",
+        "cityLabel": "Saumur",
+        "uniLabel": "Academy of Saumur"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q81997",
+        "uni": "http://www.wikidata.org/entity/Q3551562",
+        "cityLabel": "Boulogne-sur-Mer",
+        "uniLabel": "Boulogne-sur-Mer Langues et Cultures"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q3532921",
+        "cityLabel": "Toulouse",
+        "uniLabel": "Toulouse School of Economics"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q184159",
+        "uni": "http://www.wikidata.org/entity/Q2405920",
+        "cityLabel": "Niort",
+        "uniLabel": "Institut des Risques Industriels, Assurantiels et Financiers"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q273518",
+        "cityLabel": "Paris",
+        "uniLabel": "School for Advanced Studies in the Social Sciences"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q12191",
+        "uni": "http://www.wikidata.org/entity/Q3578312",
+        "cityLabel": "Nantes",
+        "uniLabel": "École polytechnique de l'université de Nantes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q29293",
+        "cityLabel": "Paris",
+        "uniLabel": "ESCP Europe"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q38380",
+        "uni": "http://www.wikidata.org/entity/Q3361223",
+        "cityLabel": "Angers",
+        "uniLabel": "palais universitaire d'Angers"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q275353",
+        "uni": "http://www.wikidata.org/entity/Q3151744",
+        "cityLabel": "Villetaneuse",
+        "uniLabel": "Institut Galilée"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q132404",
+        "uni": "http://www.wikidata.org/entity/Q2495994",
+        "cityLabel": "Bourges",
+        "uniLabel": "University of Bourges"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q571293",
+        "cityLabel": "Paris",
+        "uniLabel": "University of Paris III: Sorbonne Nouvelle"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q216837",
+        "uni": "http://www.wikidata.org/entity/Q3151862",
+        "cityLabel": "Bruz",
+        "uniLabel": "Catholic University of Rennes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q18164744",
+        "cityLabel": "Paris",
+        "uniLabel": "École intuit.lab"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1289",
+        "uni": "http://www.wikidata.org/entity/Q955647",
+        "cityLabel": "Grenoble",
+        "uniLabel": "Joseph Fourier University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193826",
+        "uni": "http://www.wikidata.org/entity/Q770639",
+        "cityLabel": "Douai",
+        "uniLabel": "University of Douai"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q171545",
+        "uni": "http://www.wikidata.org/entity/Q2399264",
+        "cityLabel": "Belfort",
+        "uniLabel": "Université de technologie de Belfort-Montbéliard"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q647",
+        "uni": "http://www.wikidata.org/entity/Q1987282",
+        "cityLabel": "Rennes",
+        "uniLabel": "University of Rennes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q1109084",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "Marc Bloch University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q859363",
+        "cityLabel": "Paris",
+        "uniLabel": "Sciences Po"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q5489",
+        "uni": "http://www.wikidata.org/entity/Q1037208",
+        "cityLabel": "Troyes",
+        "uniLabel": "University of Technology of Troyes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q273536",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris School of Economics"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6730",
+        "uni": "http://www.wikidata.org/entity/Q23073483",
+        "cityLabel": "Perpignan",
+        "uniLabel": "ancienne université de Perpignan"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q22690",
+        "uni": "http://www.wikidata.org/entity/Q1132955",
+        "cityLabel": "Metz",
+        "uniLabel": "National Polytechnic Institute of Lorraine"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q104431",
+        "uni": "http://www.wikidata.org/entity/Q16959498",
+        "cityLabel": "Forcalquier",
+        "uniLabel": "Université Européenne des Senteurs & Saveurs"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1235608",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Diderot University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q8618",
+        "cityLabel": "Lyon",
+        "uniLabel": "Catholic University of Lyon"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q208851",
+        "uni": "http://www.wikidata.org/entity/Q19203245",
+        "cityLabel": "Gif-sur-Yvette",
+        "uniLabel": "CentraleSupélec"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q932076",
+        "uni": "http://www.wikidata.org/entity/Q3578510",
+        "cityLabel": "Bidart",
+        "uniLabel": "ESTIA Institute of Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q22690",
+        "uni": "http://www.wikidata.org/entity/Q1465237",
+        "cityLabel": "Metz",
+        "uniLabel": "Paul Verlaine University – Metz"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42168",
+        "uni": "http://www.wikidata.org/entity/Q28057967",
+        "cityLabel": "Clermont-Ferrand",
+        "uniLabel": "University of Clermont Auvergne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q190118",
+        "uni": "http://www.wikidata.org/entity/Q3151861",
+        "cityLabel": "La Roche-sur-Yon",
+        "uniLabel": "Catholic Institute of Higher Studies"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6548",
+        "uni": "http://www.wikidata.org/entity/Q13334",
+        "cityLabel": "Orléans",
+        "uniLabel": "University of Orléans"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1470431",
+        "cityLabel": "Paris",
+        "uniLabel": "Institut Catholique de Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q163795",
+        "uni": "http://www.wikidata.org/entity/Q3152561",
+        "cityLabel": "Valenciennes",
+        "uniLabel": "International School of Design"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q60847808",
+        "uni": "http://www.wikidata.org/entity/Q18214943",
+        "cityLabel": "Saint-Germain-en-Laye",
+        "uniLabel": "Institut d'études politiques de Saint-Germain-en-Laye"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q26857409",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "Aix University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q5412808",
+        "cityLabel": "Lyon",
+        "uniLabel": "European Master in Management"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q23482",
+        "uni": "http://www.wikidata.org/entity/Q180438",
+        "cityLabel": "Marseille",
+        "uniLabel": "University of the Mediterranean - Aix Marseille II"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42810",
+        "uni": "http://www.wikidata.org/entity/Q1784954",
+        "cityLabel": "Le Havre",
+        "uniLabel": "University of Le Havre"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q2946099",
+        "cityLabel": "Paris",
+        "uniLabel": "University of Vincennes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q647",
+        "uni": "http://www.wikidata.org/entity/Q3151965",
+        "cityLabel": "Rennes",
+        "uniLabel": "Institut d'études politiques de Rennes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1289",
+        "uni": "http://www.wikidata.org/entity/Q2000147",
+        "cityLabel": "Grenoble",
+        "uniLabel": "Pierre Mendès-France University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q131329",
+        "uni": "http://www.wikidata.org/entity/Q475504",
+        "cityLabel": "Arras",
+        "uniLabel": "Artois University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q24204433",
+        "cityLabel": "Paris",
+        "uniLabel": "NYU Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q14761394",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Institute of Comparative Law"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q40898",
+        "uni": "http://www.wikidata.org/entity/Q1132955",
+        "cityLabel": "Nancy",
+        "uniLabel": "National Polytechnic Institute of Lorraine"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1546437",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Dauphine University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1430113",
+        "cityLabel": "Paris",
+        "uniLabel": "Institut national des langues et civilisations orientales"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q170507",
+        "uni": "http://www.wikidata.org/entity/Q3214419",
+        "cityLabel": "Nanterre",
+        "uniLabel": "Laboratoire d'ethnologie et de sociologie comparative"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q243868",
+        "uni": "http://www.wikidata.org/entity/Q955647",
+        "cityLabel": "Saint-Martin-d'Hères",
+        "uniLabel": "Joseph Fourier University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1344278",
+        "cityLabel": "Paris",
+        "uniLabel": "ParisTech"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q163795",
+        "uni": "http://www.wikidata.org/entity/Q3504837",
+        "cityLabel": "Valenciennes",
+        "uniLabel": "Supinfocom"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q27702133",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "University of Aix"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q40898",
+        "uni": "http://www.wikidata.org/entity/Q2033673",
+        "cityLabel": "Nancy",
+        "uniLabel": "Henri Poincaré University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q20808141",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "University of Strasbourg"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q38380",
+        "uni": "http://www.wikidata.org/entity/Q1538727",
+        "cityLabel": "Angers",
+        "uniLabel": "University of Angers"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1664831",
+        "cityLabel": "Paris",
+        "uniLabel": "Institute of Democracy and Cooperation"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q40898",
+        "uni": "http://www.wikidata.org/entity/Q1844562",
+        "cityLabel": "Nancy",
+        "uniLabel": "University of Pont-à-Mousson"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q185075",
+        "uni": "http://www.wikidata.org/entity/Q18214943",
+        "cityLabel": "Saint-Germain-en-Laye",
+        "uniLabel": "Institut d'études politiques de Saint-Germain-en-Laye"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q1479987",
+        "cityLabel": "Toulouse",
+        "uniLabel": "Catholic University of Toulouse"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q740681",
+        "uni": "http://www.wikidata.org/entity/Q2935621",
+        "cityLabel": "Collonges-sous-Salève",
+        "uniLabel": "Adventist University of France – Collonges"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q3064316",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "Faculté de théologie protestante de Strasbourg"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q243868",
+        "uni": "http://www.wikidata.org/entity/Q1616573",
+        "cityLabel": "Saint-Martin-d'Hères",
+        "uniLabel": "Stendhal University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q180438",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "University of the Mediterranean - Aix Marseille II"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q578023",
+        "cityLabel": "Toulouse",
+        "uniLabel": "University of Toulouse (1896-1969)"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q3578523",
+        "cityLabel": "Lyon",
+        "uniLabel": "École supérieure pour la qualité, l'environnement et la sécurité en entreprise"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q38380",
+        "uni": "http://www.wikidata.org/entity/Q1476738",
+        "cityLabel": "Angers",
+        "uniLabel": "Catholic University of the West"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q29293",
+        "cityLabel": "Paris",
+        "uniLabel": "ESCP Europe"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1953093",
+        "cityLabel": "Paris",
+        "uniLabel": "Sup'Internet"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q173695",
+        "uni": "http://www.wikidata.org/entity/Q1132955",
+        "cityLabel": "Épinal",
+        "uniLabel": "National Polytechnic Institute of Lorraine"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3064314",
+        "cityLabel": "Paris",
+        "uniLabel": "Protestant Faculty of Theology in Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q3551496",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "Robert Schuman University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q3551497",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "Louis Pasteur University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3152659",
+        "cityLabel": "Paris",
+        "uniLabel": "University Institute of Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q34001",
+        "uni": "http://www.wikidata.org/entity/Q3152703",
+        "cityLabel": "Roubaix",
+        "uniLabel": "Institut universitaire de technologie de Lille C"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q2716043",
+        "cityLabel": "Paris",
+        "uniLabel": "American University of Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q2583993",
+        "cityLabel": "Toulouse",
+        "uniLabel": "ENSEEIHT"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3152447",
+        "cityLabel": "Paris",
+        "uniLabel": "INSEP"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q683154",
+        "uni": "http://www.wikidata.org/entity/Q2822310",
+        "cityLabel": "Puylaurens",
+        "uniLabel": "Montauban-Puylaurens Academy"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q647",
+        "uni": "http://www.wikidata.org/entity/Q459026",
+        "cityLabel": "Rennes",
+        "uniLabel": "University of Rennes 2 - Upper Brittany"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q647",
+        "uni": "http://www.wikidata.org/entity/Q726595",
+        "cityLabel": "Rennes",
+        "uniLabel": "University of Rennes 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6602",
+        "uni": "http://www.wikidata.org/entity/Q157575",
+        "cityLabel": "Strasbourg",
+        "uniLabel": "University of Strasbourg"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q188033",
+        "uni": "http://www.wikidata.org/entity/Q572968",
+        "cityLabel": "Mont-de-Marsan",
+        "uniLabel": "University of Pau and Pays de l'Adour"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6441",
+        "uni": "http://www.wikidata.org/entity/Q902688",
+        "cityLabel": "Montpellier",
+        "uniLabel": "Montpellier 2 University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q45797",
+        "uni": "http://www.wikidata.org/entity/Q3551755",
+        "cityLabel": "Dunkirk",
+        "uniLabel": "University of the Littoral Opal Coast"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6593",
+        "uni": "http://www.wikidata.org/entity/Q1125958",
+        "cityLabel": "Vannes",
+        "uniLabel": "University of Southern Brittany"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q132671",
+        "uni": "http://www.wikidata.org/entity/Q572968",
+        "cityLabel": "Pau",
+        "uniLabel": "University of Pau and Pays de l'Adour"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q41185",
+        "uni": "http://www.wikidata.org/entity/Q568554",
+        "cityLabel": "Caen",
+        "uniLabel": "University of Caen Normandy"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q1933558",
+        "cityLabel": "Toulouse",
+        "uniLabel": "University Toulouse - Jean Jaurès"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q1687719",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "University of Provence - Aix-Marseille I"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q1141586",
+        "cityLabel": "Lille",
+        "uniLabel": "Charles de Gaulle University of humanities arts and social sciences"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q665618",
+        "uni": "http://www.wikidata.org/entity/Q1548539",
+        "cityLabel": "Famars",
+        "uniLabel": "University Polytechnique Hauts-de-France"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q288",
+        "uni": "http://www.wikidata.org/entity/Q494335",
+        "cityLabel": "Tours",
+        "uniLabel": "Tours University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q184047",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Aubagne",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q621",
+        "uni": "http://www.wikidata.org/entity/Q186638",
+        "cityLabel": "Versailles",
+        "uniLabel": "Université de Versailles Saint-Quentin-en-Yvelines"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q160506",
+        "uni": "http://www.wikidata.org/entity/Q1194988",
+        "cityLabel": "Saint-Denis",
+        "uniLabel": "Paris 8 University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q46135",
+        "uni": "http://www.wikidata.org/entity/Q980688",
+        "cityLabel": "Créteil",
+        "uniLabel": "Paris 12 Val de Marne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1289",
+        "uni": "http://www.wikidata.org/entity/Q945876",
+        "cityLabel": "Grenoble",
+        "uniLabel": "Grenoble Alpes University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6441",
+        "uni": "http://www.wikidata.org/entity/Q903888",
+        "cityLabel": "Montpellier",
+        "uniLabel": "University of Montpellier 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q79815",
+        "uni": "http://www.wikidata.org/entity/Q280183",
+        "cityLabel": "Mulhouse",
+        "uniLabel": "Upper Alsace University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q192481",
+        "uni": "http://www.wikidata.org/entity/Q13338",
+        "cityLabel": "Talence",
+        "uniLabel": "University of Bordeaux 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q12193",
+        "uni": "http://www.wikidata.org/entity/Q1857334",
+        "cityLabel": "Brest",
+        "uniLabel": "University of Western Brittany"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q662976",
+        "cityLabel": "Paris",
+        "uniLabel": "Panthéon-Assas University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42716",
+        "uni": "http://www.wikidata.org/entity/Q623154",
+        "cityLabel": "Saint-Étienne",
+        "uniLabel": "Jean Monnet University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1055925",
+        "uni": "http://www.wikidata.org/entity/Q494247",
+        "cityLabel": "Mont-Saint-Aignan",
+        "uniLabel": "University of Rouen"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q2974822",
+        "uni": "http://www.wikidata.org/entity/Q500740",
+        "cityLabel": "Cité scientifique",
+        "uniLabel": "Lille University of Science and Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q999763",
+        "cityLabel": "Paris",
+        "uniLabel": "Pantheon-Sorbonne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q43295",
+        "uni": "http://www.wikidata.org/entity/Q500740",
+        "cityLabel": "Villeneuve-d'Ascq",
+        "uniLabel": "Lille University of Science and Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q12191",
+        "uni": "http://www.wikidata.org/entity/Q259388",
+        "cityLabel": "Nantes",
+        "uniLabel": "University of Nantes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q207156",
+        "uni": "http://www.wikidata.org/entity/Q13342",
+        "cityLabel": "Pessac",
+        "uniLabel": "Bordeaux Montaigne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6397",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Avignon",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42168",
+        "uni": "http://www.wikidata.org/entity/Q612648",
+        "cityLabel": "Clermont-Ferrand",
+        "uniLabel": "Blaise Pascal University (Clermont II)"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1155944",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris Descartes University - Sorbonne Paris Cité"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1476",
+        "uni": "http://www.wikidata.org/entity/Q834825",
+        "cityLabel": "Le Mans",
+        "uniLabel": "Le Mans University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q207156",
+        "uni": "http://www.wikidata.org/entity/Q13335",
+        "cityLabel": "Pessac",
+        "uniLabel": "Montesquieu University – Bordeaux IV"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q71724",
+        "uni": "http://www.wikidata.org/entity/Q1125958",
+        "cityLabel": "Lorient",
+        "uniLabel": "University of Southern Brittany"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6397",
+        "uni": "http://www.wikidata.org/entity/Q2033119",
+        "cityLabel": "Avignon",
+        "uniLabel": "Avignon University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q82185",
+        "uni": "http://www.wikidata.org/entity/Q1500822",
+        "cityLabel": "La Rochelle",
+        "uniLabel": "University of La Rochelle"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q1144549",
+        "cityLabel": "Paris",
+        "uniLabel": "University of Paris VI: Pierre-and-Marie-Curie University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q37776",
+        "uni": "http://www.wikidata.org/entity/Q829449",
+        "cityLabel": "Besançon",
+        "uniLabel": "University of Franche-Comté"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q546118",
+        "cityLabel": "Paris",
+        "uniLabel": "Paris-Sorbonne University - Paris IV"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6730",
+        "uni": "http://www.wikidata.org/entity/Q304872",
+        "cityLabel": "Perpignan",
+        "uniLabel": "University of Perpignan - Via Domitia"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1479",
+        "uni": "http://www.wikidata.org/entity/Q13340",
+        "cityLabel": "Bordeaux",
+        "uniLabel": "Bordeaux Segalen University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42168",
+        "uni": "http://www.wikidata.org/entity/Q1381437",
+        "cityLabel": "Clermont-Ferrand",
+        "uniLabel": "University of Auvergne - Clermont I"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q192393",
+        "uni": "http://www.wikidata.org/entity/Q1531014",
+        "cityLabel": "Évry",
+        "uniLabel": "University of Évry Val d'Essonne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1479",
+        "uni": "http://www.wikidata.org/entity/Q13344",
+        "cityLabel": "Bordeaux",
+        "uniLabel": "University of Bordeaux"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q372281",
+        "uni": "http://www.wikidata.org/entity/Q1480643",
+        "cityLabel": "Orsay",
+        "uniLabel": "University of Paris-Sud"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q231554",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "La Ciotat",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q3551621",
+        "cityLabel": "Lille",
+        "uniLabel": "University of Lille"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q134674",
+        "uni": "http://www.wikidata.org/entity/Q572968",
+        "cityLabel": "Bayonne",
+        "uniLabel": "University of Pau and Pays de l'Adour"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q181306",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Digne-les-Bains",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q42807",
+        "uni": "http://www.wikidata.org/entity/Q2496121",
+        "cityLabel": "Nîmes",
+        "uniLabel": "University of Nîmes"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q23482",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Marseille",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q44160",
+        "uni": "http://www.wikidata.org/entity/Q1816857",
+        "cityLabel": "Toulon",
+        "uniLabel": "University of Toulon"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q590201",
+        "cityLabel": "Toulouse",
+        "uniLabel": "University Toulouse I - Capitole"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q232567",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Salon-de-Provence",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q48292",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Arles",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6616",
+        "uni": "http://www.wikidata.org/entity/Q661056",
+        "cityLabel": "Poitiers",
+        "uniLabel": "University of Poitiers"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q4032",
+        "cityLabel": "Lyon",
+        "uniLabel": "Claude Bernard University Lyon 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q4041",
+        "cityLabel": "Lyon",
+        "uniLabel": "Lumière University Lyon 2"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q130994",
+        "uni": "http://www.wikidata.org/entity/Q280183",
+        "cityLabel": "Colmar",
+        "uniLabel": "Upper Alsace University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q184023",
+        "uni": "http://www.wikidata.org/entity/Q572968",
+        "cityLabel": "Tarbes",
+        "uniLabel": "University of Pau and Pays de l'Adour"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q41604",
+        "uni": "http://www.wikidata.org/entity/Q947747",
+        "cityLabel": "Amiens",
+        "uniLabel": "University of Picardie Jules-Verne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q41876",
+        "uni": "http://www.wikidata.org/entity/Q2496149",
+        "cityLabel": "Reims",
+        "uniLabel": "University of Reims Champagne-Ardenne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q6441",
+        "uni": "http://www.wikidata.org/entity/Q2912244",
+        "cityLabel": "Montpellier",
+        "uniLabel": "Montpellier III - Paul Valery University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q275353",
+        "uni": "http://www.wikidata.org/entity/Q1780212",
+        "cityLabel": "Villetaneuse",
+        "uniLabel": "Paris 13 University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q12753",
+        "uni": "http://www.wikidata.org/entity/Q980688",
+        "cityLabel": "Seine-et-Marne",
+        "uniLabel": "Paris 12 Val de Marne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1322289",
+        "uni": "http://www.wikidata.org/entity/Q500740",
+        "cityLabel": "Lille North of France University",
+        "uniLabel": "Lille University of Science and Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q45656",
+        "uni": "http://www.wikidata.org/entity/Q2661290",
+        "cityLabel": "Limoges",
+        "uniLabel": "University of Limoges"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q175081",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Gap",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193903",
+        "uni": "http://www.wikidata.org/entity/Q2496006",
+        "cityLabel": "Cergy",
+        "uniLabel": "Cergy-Pontoise University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q242536",
+        "uni": "http://www.wikidata.org/entity/Q501207",
+        "cityLabel": "Champs-sur-Marne",
+        "uniLabel": "University of Marne la Vallée"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q1273188",
+        "cityLabel": "Toulouse",
+        "uniLabel": "Toulouse III University - Paul-Sabatier"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q12788",
+        "uni": "http://www.wikidata.org/entity/Q980688",
+        "cityLabel": "Val-de-Marne",
+        "uniLabel": "Paris 12 Val de Marne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7003",
+        "uni": "http://www.wikidata.org/entity/Q287072",
+        "cityLabel": "Dijon",
+        "uniLabel": "University of Burgundy"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q1204304",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "University Paul Cézanne - Aix Marseille III"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q191765",
+        "uni": "http://www.wikidata.org/entity/Q572968",
+        "cityLabel": "Anglet",
+        "uniLabel": "University of Pau and Pays de l'Adour"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q47465",
+        "uni": "http://www.wikidata.org/entity/Q2302586",
+        "cityLabel": "Aix-en-Provence",
+        "uniLabel": "Aix-Marseille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q165090",
+        "uni": "http://www.wikidata.org/entity/Q2496158",
+        "cityLabel": "Chambéry",
+        "uniLabel": "University of Savoy"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3551621",
+        "uni": "http://www.wikidata.org/entity/Q3395837",
+        "cityLabel": "University of Lille",
+        "uniLabel": "Polytech Lille"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3450306",
+        "uni": "http://www.wikidata.org/entity/Q546118",
+        "cityLabel": "rue Victor-Cousin",
+        "uniLabel": "Paris-Sorbonne University - Paris IV"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q22690",
+        "uni": "http://www.wikidata.org/entity/Q538990",
+        "cityLabel": "Metz",
+        "uniLabel": "Georgia Tech Lorraine"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q456",
+        "uni": "http://www.wikidata.org/entity/Q4027",
+        "cityLabel": "Lyon",
+        "uniLabel": "Jean Moulin University - Lyon 3"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q40898",
+        "uni": "http://www.wikidata.org/entity/Q4173330",
+        "cityLabel": "Nancy",
+        "uniLabel": "University of Lorraine"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q7880",
+        "uni": "http://www.wikidata.org/entity/Q3152453",
+        "cityLabel": "Toulouse",
+        "uniLabel": "National Polytechnic Institute of Toulouse"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q273461",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "École Centrale de Lille",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q60965632",
+        "cityLabel": "Paris",
+        "uniLabel": "Institut Al-Ghazali"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3450608",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "rue de Bruxelles",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3448548",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "Rue Jeanne-d'Arc",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3448443",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "Rue Jean-Bart",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q1141586",
+        "cityLabel": "Lille",
+        "uniLabel": "Charles de Gaulle University of humanities arts and social sciences"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3452416",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "Rue du Lombard (Lille)",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q46135",
+        "uni": "http://www.wikidata.org/entity/Q980688",
+        "cityLabel": "Créteil",
+        "uniLabel": "Paris 12 Val de Marne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q3413213",
+        "uni": "http://www.wikidata.org/entity/Q214654",
+        "cityLabel": "Sorbonne",
+        "uniLabel": "Sorbonne"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q33959",
+        "uni": "http://www.wikidata.org/entity/Q1198571",
+        "cityLabel": "Nice",
+        "uniLabel": "University of Nice Sophia-Antipolis"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q193370",
+        "uni": "http://www.wikidata.org/entity/Q2972349",
+        "cityLabel": "Montreuil",
+        "uniLabel": "Cifacom"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q41497113",
+        "cityLabel": "Paris",
+        "uniLabel": "Sorbonne University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1289",
+        "uni": "http://www.wikidata.org/entity/Q1665121",
+        "cityLabel": "Grenoble",
+        "uniLabel": "Grenoble Institute of Technology"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "Lille",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q209842",
+        "cityLabel": "Paris",
+        "uniLabel": "University of Paris (1896-1968)"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q11509930",
+        "cityLabel": "Lille",
+        "uniLabel": "Lille University of Health and Law"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q1479",
+        "uni": "http://www.wikidata.org/entity/Q13338",
+        "cityLabel": "Bordeaux",
+        "uniLabel": "University of Bordeaux 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q648",
+        "uni": "http://www.wikidata.org/entity/Q64699698",
+        "cityLabel": "Lille",
+        "uniLabel": "Lille University"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q2974822",
+        "uni": "http://www.wikidata.org/entity/Q3152321",
+        "cityLabel": "Cité scientifique",
+        "uniLabel": "Institut industriel du Nord"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q23482",
+        "uni": "http://www.wikidata.org/entity/Q1687719",
+        "cityLabel": "Marseille",
+        "uniLabel": "University of Provence - Aix-Marseille I"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q90",
+        "uni": "http://www.wikidata.org/entity/Q3152060",
+        "cityLabel": "Paris",
+        "uniLabel": "Institut de physique du globe de Paris"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q582",
+        "uni": "http://www.wikidata.org/entity/Q4032",
+        "cityLabel": "Villeurbanne",
+        "uniLabel": "Claude Bernard University Lyon 1"
+    },
+    {
+        "city": "http://www.wikidata.org/entity/Q180871",
+        "uni": "http://www.wikidata.org/entity/Q622906",
+        "cityLabel": "Compiègne",
+        "uniLabel": "University of Technology of Compiègne"
+    }
+]
