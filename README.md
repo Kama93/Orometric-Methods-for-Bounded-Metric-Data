@@ -3,8 +3,8 @@ in Bounded Metric Data**.
 
 # Data
 
-The data sets for Germany and France were extracted via the Wikidata Querry Service on 07-08-19.
-The following Queries were used to extract the municipalities and the university
+The data sets for Germany and France were extracted via the Wikidata Query Service on 07-08-19.
+The following queries were used to extract the municipalities and the university
 locations:
 
 ## Germany
@@ -68,13 +68,13 @@ SELECT DISTINCT ?city ?uni ?cityLabel ?uniLabel WHERE {
 The resulting files are stored in the directories france and germany, having the names
 **cities.json** and **universities_uncorrected.json**.
 The handmade corrections are stored in the file **corrections.json**.
-The **correction.json** files are used to make the corrected file **universities.json**
+The **corrections.json** files are used to make the corrected file **universities.json**
 in the following manner:
 
-If [x,y,z] is in ** corrections.json**, then the university Qx is located in Qy
+If [x,y,z] is in **corrections.json**, then the university Qx is located in Qy
 in **universities_uncorrected.json**, but we replaced Qy by Qz in **universites.json**.
 
-The experiments described in the paper can be reproduced by running python3 main.py.
+The experiments described in the paper can be reproduced by running **python3 main.py**.
 Running main.py will:
 - Generate summaries containing all relevant data, stats for the
 classification with normalized isolation, population and prominence values.
@@ -90,4 +90,4 @@ The following external packages are needed:
 - numpy  (1.16.3)
 
 The number in brackets are the versions that were used for the experiments.
-We used Python Version 3.7.3 for our experiments.
+We used Python version 3.7.3 for our experiments.
