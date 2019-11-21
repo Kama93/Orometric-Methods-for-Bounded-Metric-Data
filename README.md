@@ -1,9 +1,9 @@
-This Repository contains the code and data for the paper **Orometric Methods
+This repository contains the code and data for the paper **Orometric Methods
 in Bounded Metric Data**.
 
 # Data
 
-The data sets for Germany and France were extracted via the Wikidata Query Service on 07-08-19.
+The data sets for Germany and France were extracted via the Wikidata Query Service on 2019-11-04.
 The following queries were used to extract the municipalities and the university
 locations:
 
@@ -11,55 +11,58 @@ locations:
 
 ### Municipalities
 
-SELECT DISTINCT ?city ?cityLabel (MAX(?latitude) AS ?latitude) (MAX(?longitude) AS ?longitude) (MAX(?population) AS ?population) WHERE {
-  ?city (p:P31/ps:P31)/wdt:P279* wd:Q15284.
-  ?city wdt:P17 wd:Q183.
-  ?city wdt:P1082 ?population.
-  ?city (p:P625/psv:P625) ?coordinates.
-  ?coordinates wikibase:geoLatitude ?latitude.
-  ?coordinates wikibase:geoLongitude ?longitude.
-  FILTER(?population >=5000)
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, de". }
-}
+SELECT DISTINCT ?city ?cityLabel (MAX(?lat) AS ?latitude) (MAX(?long) AS ?longitude) (MAX(?pop) AS ?population) WHERE { 
+  ?city (p:P31/ps:P31)/wdt:P279* wd:Q15284. 
+  ?city wdt:P17 wd:Q183. 
+  ?city wdt:P1082 ?pop. 
+  filter (?pop >= 5000). 
+  ?city (p:P625/psv:P625) ?coordinates. 
+  ?coordinates wikibase:geoLatitude ?lat. 
+  ?coordinates wikibase:geoLongitude ?long. 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, de". } 
+} 
 GROUP BY ?city ?cityLabel
 ORDER BY DESC(?population)
 
 ### Universities:
 
-SELECT DISTINCT ?city ?uni ?cityLabel ?uniLabel WHERE {
-  ?uni (p:P31/ps:P31)/wdt:P279* wd:Q3918.
-  ?uni (wdt:P131|wdt:P159) ?city.
-  ?city wdt:P17 wd:Q183.
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, de". }
-}
+SELECT DISTINCT ?city ?uni ?cityLabel ?uniLabel WHERE { 
+  ?uni (p:P31/ps:P31)/wdt:P279* wd:Q3918. 
+  ?uni (wdt:P131|wdt:P159) ?city. 
+  filter not exists {?uni wdt:P576 ?date}. 
+  ?city wdt:P17 wd:Q183. 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, de". } 
+} 
 
 ## France
 
 ### Municipalities:
 
-SELECT DISTINCT ?city ?cityLabel (MAX(?latitude) AS ?latitude) (MAX(?longitude) AS ?longitude) (MAX(?population) AS ?population) WHERE {
-  ?city (p:P31/ps:P31)/wdt:P279* wd:Q15284.
-  ?city wdt:P17 wd:Q142.
-  ?city wdt:P1082 ?population.
-  ?city (p:P625/psv:P625) ?coordinates.
-  ?coordinates wikibase:geoLatitude ?latitude.
-  ?coordinates wikibase:geoLongitude ?longitude.
-  FILTER(?population >= 5000 && ?latitude <=51.179 && ?latitude >= 41.968 && ?longitude <= 8 && ?longitude >= -5.361)
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, fr"}
-}
-GROUP BY ?city ?cityLabel
+SELECT DISTINCT ?city ?cityLabel (MAX(?lat) AS ?latitude) (MAX(?long) AS ?longitude) (MAX(?pop) AS ?population) WHERE { 
+  ?city (p:P31/ps:P31)/wdt:P279* wd:Q15284. 
+  ?city wdt:P17 wd:Q142. 
+  ?city wdt:P1082 ?pop. 
+  filter(?pop >= 5000)
+  ?city (p:P625/psv:P625) ?coordinates. 
+  ?coordinates wikibase:geoLatitude ?lat .
+  ?coordinates wikibase:geoLongitude ?long. 
+  FILTER(?lat <=51.179 && ?lat >= 41.968 && ?long <= 8 && ?long >= -5.361) 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, fr"} 
+} 
+GROUP BY ?city ?cityLabel 
 ORDER BY DESC(?population)
 
 ### Universities
-SELECT DISTINCT ?city ?uni ?cityLabel ?uniLabel WHERE {
-  ?uni (p:P31/ps:P31)/wdt:P279* wd:Q3918.
-  ?uni (wdt:P131|wdt:P159) ?city.
-  ?city wdt:P17 wd:Q142.
-  ?city (p:P625/psv:P625) ?coordinates.
-  ?coordinates wikibase:geoLatitude ?latitude.
-  ?coordinates wikibase:geoLongitude ?longitude.
-  FILTER(?latitude <=51.179 && ?latitude >= 41.968 && ?longitude <= 8 && ?longitude >= -5.361)
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, fr". }
+SELECT DISTINCT ?city ?uni ?cityLabel ?uniLabel WHERE { 
+  ?uni (p:P31/ps:P31)/wdt:P279* wd:Q3918. 
+  ?uni (wdt:P131|wdt:P159) ?city. 
+  filter not exists {?uni wdt:P576 ?date}.
+  ?city wdt:P17 wd:Q142. 
+  ?city (p:P625/psv:P625) ?coordinates. 
+  ?coordinates wikibase:geoLatitude ?latitude. 
+  ?coordinates wikibase:geoLongitude ?longitude. 
+  FILTER(?latitude <=51.179 && ?latitude >= 41.968 && ?longitude <= 8 && ?longitude >= -5.361) 
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en, fr". } 
 }
 
 
@@ -76,18 +79,19 @@ in **universities_uncorrected.json**, but we replaced Qy by Qz in **universites.
 
 The experiments described in the paper can be reproduced by running **python3 main.py**.
 Running main.py will:
-- Generate summaries containing all relevant data, stats for the
-classification with normalized isolation, population and prominence values.
+- Generate summaries containing all relevant data for all municipalities.
+- Compute the minimal step graph.
+- Compute stats for the classification with normalized isolation, population and prominence values.
 - Run the classification experiments described in the paper.
 - Create the latex tabular containing the results.
 
 The following external packages are needed:
 
-- networkx (2.3)
-- geopy (1.19.0)
-- scikit-learn (0.21.1)
-- pandas (0.24.2)
-- numpy  (1.16.3)
+- networkx (2.4)
+- geopy (1.20.0)
+- scikit-learn (0.21.3)
+- pandas (0.25.2)
+- numpy  (1.17.2)
 
 The number in brackets are the versions that were used for the experiments.
-We used Python version 3.7.3 for our experiments.
+We used Python version 3.7.4 for our experiments.

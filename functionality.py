@@ -215,8 +215,6 @@ def compute_all_isolations(graph, height, distance,  show_dominating_point=False
     """
     Takes a nx-graph ``graph'' and computes the isolation  of all nodes based on the height
     dict ``height'' and the distance dict ``distance''.
-    If no distance function is provided, an optimized version of isolation for
-    the shortest path distance is used.
     """
     return {node: isolation(graph, node, height, distance, show_dominating_point)
             for node in graph.nodes()}
@@ -270,7 +268,7 @@ def compute_all_prominences(graph, height):
 # Helper stuff
 
 
-def distance_graph(distances, epsilon):
+def step_graph(distances, epsilon):
     """
     Returns for a given dict of dict storing ``distances'' the graph,
     where edges are defined for pairs with distances not greater then ``epsilon''.
@@ -285,7 +283,7 @@ def distance_graph(distances, epsilon):
     return graph
 
 
-def smallest_connected_graph(distances):
+def minimal_step_graph(distances):
     """
     Returns for given points and there ``distances'', given as dict of dicts,
     the graph where two points have an edge, if there distance is smaller than epsilon.
@@ -293,15 +291,14 @@ def smallest_connected_graph(distances):
     """
     epsilon = max([min([distances[x][y] for y in distances.keys() if y != x])
                    for x in distances.keys()])
-    return distance_graph(distances, epsilon)
+    return step_graph(distances, epsilon)
 
 # Main function for computing the graph.
 
 
-def make_smallest_connected_graph(directory):
+def make_minimal_step_graph(directory):
     """
-    Make smallest graph where every node has a real neighbour for dataset
-    in directory.
+    Make smallest graph where every node has a real neighbour.
     """
     path = data_path(directory, True)
     summary = load_data(path + 'summary.json')
@@ -311,7 +308,7 @@ def make_smallest_connected_graph(directory):
                                                  summary[city2]['longitude'])).km
                          for city2 in summary.keys()}
                  for city1 in summary.keys()}
-    g = smallest_connected_graph(distances)
+    g = minimal_step_graph(distances)
     write_data(nx.to_dict_of_lists(g), path + 'minimal_graph.json')
 
 # Make stats in format for classsification
@@ -340,13 +337,13 @@ def make_stats_for_prediction(directory):
     heights = normalize(heights)
     isolations = normalize({key: isolations[key] for key in summary.keys()})
     prominences = normalize({key: prominences[key] for key in summary.keys()})
-    stats_to_plot = {key: {'name': summary[key]['name'],
-                           'population': heights[key],
-                           'isolation': isolations[key],
-                           'prominence': prominences[key],
-                           'unis': summary[key]['#universities']}
-                     for key in heights.keys()}
-    write_data(stats_to_plot, path + 'stats_for_prediction.json')
+    stats = {key: {'name': summary[key]['name'],
+                   'population': heights[key],
+                   'isolation': isolations[key],
+                   'prominence': prominences[key],
+                   'unis': summary[key]['#universities']}
+             for key in heights.keys()}
+    write_data(stats, path + 'stats_for_prediction.json')
 
 ############################
 # Stuff for classsification#
